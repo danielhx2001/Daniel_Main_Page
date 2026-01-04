@@ -4,7 +4,7 @@
 <p align = "center"><img src = "https://media.istockphoto.com/id/1407318173/vector/data-analytics-related-modern-line-banner-with-icons.jpg?s=170667a&w=0&k=20&c=JAT2nIQoWn8yZvcSV3VRkQ24KRny6L-6MCYFsLkDIho="></p>
 
 <h3>About</h3>
-<p>I am a Data Analyst with 2 years of experience. My work centers on translating complex data and real-world business problems into data-driven insights and mesurable impacts that help organizations make smarter decisions. <br>
+<p>I am a Data Analyst with 2 years of professional experience. My work centers on translating complex data and real-world business problems into data-driven insights and mesurable impacts that help organizations make smarter decisions. <br>
   
   I always believe data can be a good force for our communities. I thrive where analytical thinking meets mission-driven work, and where data can directly shape strategy and improve people’s lives.
 </p>
